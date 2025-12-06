@@ -1,0 +1,1 @@
+math.exp(-0.5 * x * x) * x*x * math.atan(math.exp(math.sin(3*x+69)))
